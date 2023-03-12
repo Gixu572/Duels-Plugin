@@ -1,0 +1,8 @@
+name: Duels-Plugin
+version: '1.0-SNAPSHOT'
+main: me.gixu.duelsplugin.Duels_Plugin
+api-version: 1.19
+load: STARTUP
+commands:
+  duel:
+  accept:
